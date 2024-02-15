@@ -6,4 +6,4 @@ RUN apt install -y git
 
 copy . /var/www/html
 
-CMD ["nginx", "-g", "daemon off;"]
+CMD service cron start; ["nginx", "-g", "daemon off;"];
