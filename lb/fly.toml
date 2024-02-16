@@ -1,11 +1,10 @@
-# fly.toml app configuration file generated for seull1-blog-small-dawn-4305 on 2024-02-16T02:20:12+09:00
+# fly.toml app configuration file generated for lb-seull on 2024-02-16T02:45:43+09:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'seull1-blog-small-dawn-4305'
+app = 'lb-seull'
 primary_region = 'nrt'
-
 
 
 [http_service]
