@@ -1,9 +1,2 @@
 # seull1.blog
-as1
-- [ ] fly
-
-- [ ] copy
-
-- [ ] git
-
-- [ ] git 실습
+### 로컬에서 blog1 , blog2 를 lb nginx-vhost로 묶기
