@@ -6,3 +6,5 @@ asd
 - [ ] copy
 
 - [ ] git
+
+- [ ] git 실습
